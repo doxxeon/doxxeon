@@ -11,7 +11,7 @@
   ## 👀 About Me
   #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
   #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  #### :mortar_board: Human Centered Artificial Intelligence Engineering in Sangmyung University
   <br/>
   <br/>
   
