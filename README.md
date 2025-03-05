@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=blur&color=0:f1c9fe,100:b18cfe&height=120&text=Hello%20World!%20🍀&animation=twinkling&fontColor=ffffff&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=blur&color=0:f1c9fe,100:b18cfe&height=120&text=Hello%20World!%20🍀&animation=twinkling&fontColor=000000&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
@@ -27,7 +27,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=doxxeon&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doxxeon&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
-           /> </div> 
+         /> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+        </div> 
     </div>
     
