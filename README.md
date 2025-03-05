@@ -29,4 +29,8 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doxxeon&layout=compact&bg_color=60,f9d3e0,fefcdd&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
-    
+<br>
+<p>🏆 Baekjoon solved rank 🏆</p>
+	
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kycasdzxc)](https://solved.ac/dohyun897)
+</div>
