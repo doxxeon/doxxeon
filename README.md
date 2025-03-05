@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=blur&color=0:f9d3e0,100:&height=180&text=Hello%20World!%20🍀&animation=fadeIn&fontColor=000000&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=blur&color=0:f9d3e0,100:f8fadb&height=180&text=Hello%20World!%20🍀&animation=fadeIn&fontColor=000000&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi There ! 🍀 </h2>  
