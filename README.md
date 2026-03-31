@@ -19,7 +19,7 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://velog.io/@doxxeon/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@doxxeon/posts"> </a>
-         <a href=https://icy-staircase-c61.notion.site/Portfolio-8ca43594ebc24ca48fdfcd999df518d9?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://icy-staircase-c61.notion.site/Portfolio-8ca43594ebc24ca48fdfcd999df518d9?pvs=4"> </a>
+         <a href=https://icy-staircase-c61.notion.site/Portfolio-8ca43594ebc24ca48fdfcd999df518d9?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=[https://icy-staircase-c61.notion.site/Portfolio-8ca43594ebc24ca48fdfcd999df518d9?pvs=4](https://humorous-tomato-853.notion.site/Kimdohyeon-s-Workspace-2f983f4733f180169c17d063bd407e44?source=copy_link)"> </a>
          <a href=mailto:dohyun897@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dohyun897@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
